@@ -16,13 +16,7 @@ export default function About() {
                           React development is carried out by passionate developers
                       </h2>
                       <p className="mt-6 text-gray-600">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                          accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                          aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
-                      </p>
-                      <p className="mt-4 text-gray-600">
-                          Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                          Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                      “If we want users to like our software, we should design it to behave like a likeable person. Define what the product will do before you design how the product will do it. Usability’s strength is in identifying problems, while design’s strength is in identifying solutions.”
                       </p>
                   </div>
               </div>
